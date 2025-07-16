@@ -142,9 +142,7 @@ The following technologies were used to build the project
 ### Installation
 
 1. Clone the repository
-   ```sh
-
-   ```
+   
 2. Create and Activate Virtual Environment 
     ```sh
     cd Music_Gen_AI
