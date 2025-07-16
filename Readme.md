@@ -2,8 +2,7 @@
 
   <h1 align="center">Automatic Music Generation using AI </h1>
   <ul>
-<li> Shaantanu Kulkarni - shaantanu314 </li>
-<li>Vijay Kalluri - vijay13aba </li>
+
   <p align="center">
     An automatic music generation model which has been  trained on schubert piano tones  can be used to generate piano music .
     <br />
@@ -144,7 +143,7 @@ The following technologies were used to build the project
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/shaantanu314/Music-Gen-AI.git
+
    ```
 2. Create and Activate Virtual Environment 
     ```sh
